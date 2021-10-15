@@ -56,4 +56,20 @@
 - RL (Markov Decision Process)  
 - RL (Q-learning)  
 - Deep Q Network (DQN)  
-- Programming-Q-Learning
+- Programming-Q-Learning  
+
+# 🙏 Contributing
+- Special Thanks to Sung Kim, Professor, Hong Kong University of Science and Technology  
+  - http://hunkim.github.io/ml/  
+- Special Thanks to Sang-Jo Yoo, Professor, Inha University  
+  - https://sites.google.com/view/multinet-inha  
+
+---
+
+<div align="center">
+
+  ###### *Study Notes are not available for distribution* 😢 *SRY* 😭
+ 
+</div>
+
+---
