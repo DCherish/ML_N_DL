@@ -68,7 +68,8 @@
 
 <div align="center">
 
-  ###### *Study Notes are not available for distribution* 😢 *SRY* 😭
+  ###### *You can use the code or file of Part_1, Part_2, Part_3* 😉 *Plz Press Star button* 🤩 
+  ###### *But, Study Notes are not available for distribution due to copyrights* 😢 *SRY* 😭
  
 </div>
 
