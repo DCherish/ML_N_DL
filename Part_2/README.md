@@ -14,5 +14,4 @@
 - XOR example  
 - Learning rate  
 - Preprocessing  
-- Normalization  
 - MNIST
