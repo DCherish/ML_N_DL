@@ -12,4 +12,4 @@
 - Tensor manipulation  
 - Numpy  
 - Regression  
-- Minimize cost  
+- Minimize cost
